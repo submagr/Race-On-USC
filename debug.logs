@@ -1,0 +1,506 @@
+
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: [121]
+                closest_peak_at: 121
+                deviation: 0.763671875
+                result:left
+            
+                peaks: [ 16 126 225 335 415]
+                closest_peak_at: 415
+                deviation: 0.189453125
+                result:left
+            
+                peaks: [118 230 338 413]
+                closest_peak_at: 413
+                deviation: 0.193359375
+                result:left
+            
+                peaks: [124 227 334 412]
+                closest_peak_at: 412
+                deviation: 0.1953125
+                result:left
+            
+                peaks: [120 220 328 415]
+                closest_peak_at: 415
+                deviation: 0.189453125
+                result:left
+            
+                peaks: [128 235 336 415]
+                closest_peak_at: 415
+                deviation: 0.189453125
+                result:left
+            
+                peaks: [131 234 325 414]
+                closest_peak_at: 414
+                deviation: 0.19140625
+                result:left
+            
+                peaks: [132 227 331 411]
+                closest_peak_at: 411
+                deviation: 0.197265625
+                result:left
+            
+                peaks: [128 235 323 413]
+                closest_peak_at: 413
+                deviation: 0.193359375
+                result:left
+            
+                peaks: [127 235 325 410]
+                closest_peak_at: 410
+                deviation: 0.19921875
+                result:left
+            
+                peaks: [129 230 324 410]
+                closest_peak_at: 410
+                deviation: 0.19921875
+                result:left
+            
+                peaks: [116 227 319 409]
+                closest_peak_at: 409
+                deviation: 0.201171875
+                result:left
+            
+                peaks: [113 221 336 404]
+                closest_peak_at: 404
+                deviation: 0.2109375
+                result:left
+            
+                peaks: [ 96 214 326 402]
+                closest_peak_at: 402
+                deviation: 0.21484375
+                result:left
+            
+                peaks: [ 84 202 323 393]
+                closest_peak_at: 393
+                deviation: 0.232421875
+                result:left
+            
+                peaks: [ 76 200 315 390]
+                closest_peak_at: 390
+                deviation: 0.23828125
+                result:left
+            
+                peaks: [ 75 196 328 386]
+                closest_peak_at: 386
+                deviation: 0.24609375
+                result:left
+            
+                peaks: [ 71 194 324 384]
+                closest_peak_at: 384
+                deviation: 0.25
+                result:left
+            
+                peaks: [ 78 198 323 384]
+                closest_peak_at: 384
+                deviation: 0.25
+                result:left
+            
+                peaks: [ 91 208 326 398]
+                closest_peak_at: 398
+                deviation: 0.22265625
+                result:left
+            
+                peaks: [119 236 357 426]
+                closest_peak_at: 426
+                deviation: 0.16796875
+                result:left
+            
+                peaks: [130 250 380 436]
+                closest_peak_at: 436
+                deviation: 0.1484375
+                result:left
+            
+                peaks: [143 258 384 444]
+                closest_peak_at: 444
+                deviation: 0.1328125
+                result:left
+            
+                peaks: [ 86 167 283 403 467]
+                closest_peak_at: 467
+                deviation: 0.087890625
+                result:left
+            
+                peaks: [126 217 325 435 505]
+                closest_peak_at: 505
+                deviation: 0.013671875
+                result:straight
+            
+                peaks: [188 281 377 483 565]
+                closest_peak_at: 483
+                deviation: 0.056640625
+                result:left
+            
+                peaks: [247 361 623]
+                closest_peak_at: 623
+                deviation: -0.216796875
+                result:right
+            
+                peaks: [298 416 578 675]
+                closest_peak_at: 578
+                deviation: -0.12890625
+                result:right
+            
+                peaks: [335 455 545 623 713]
+                closest_peak_at: 545
+                deviation: -0.064453125
+                result:right
+            
+                peaks: [374 499 661 752]
+                closest_peak_at: 499
+                deviation: 0.025390625
+                result:straight
+            
+                peaks: [407 537 699 785]
+                closest_peak_at: 537
+                deviation: -0.048828125
+                result:straight
+            
+                peaks: [446 580 745 822]
+                closest_peak_at: 446
+                deviation: 0.12890625
+                result:left
+            
+                peaks: [480 619 781 858]
+                closest_peak_at: 480
+                deviation: 0.0625
+                result:left
+            
+                peaks: [511 661 818 883]
+                closest_peak_at: 511
+                deviation: 0.001953125
+                result:straight
+            
+                peaks: [534 671 839 912]
+                closest_peak_at: 534
+                deviation: -0.04296875
+                result:straight
+            
+                peaks: [561 703 871 929]
+                closest_peak_at: 561
+                deviation: -0.095703125
+                result:right
+            
+                peaks: [598 771 913]
+                closest_peak_at: 598
+                deviation: -0.16796875
+                result:right
+            
+                peaks: [635 804 954]
+                closest_peak_at: 635
+                deviation: -0.240234375
+                result:right
+            
+                peaks: [664 843 990]
+                closest_peak_at: 664
+                deviation: -0.296875
+                result:right
+            
+                peaks: [689 867]
+                closest_peak_at: 689
+                deviation: -0.345703125
+                result:right
+            
+                peaks: [716 908]
+                closest_peak_at: 716
+                deviation: -0.3984375
+                result:right
+            
+                peaks: [728 910]
+                closest_peak_at: 728
+                deviation: -0.421875
+                result:right
+            
+                peaks: [733 918]
+                closest_peak_at: 733
+                deviation: -0.431640625
+                result:right
+            
+                peaks: [749 838 945]
+                closest_peak_at: 749
+                deviation: -0.462890625
+                result:right
+            
+                peaks: [757 951]
+                closest_peak_at: 757
+                deviation: -0.478515625
+                result:right
+            
+                peaks: [751 853 944]
+                closest_peak_at: 751
+                deviation: -0.466796875
+                result:right
+            
+                peaks: [748 834 941]
+                closest_peak_at: 748
+                deviation: -0.4609375
+                result:right
+            
+                peaks: [744 934]
+                closest_peak_at: 744
+                deviation: -0.453125
+                result:right
+            
+                peaks: [744 836 940]
+                closest_peak_at: 744
+                deviation: -0.453125
+                result:right
+            
+                peaks: [740 828 932]
+                closest_peak_at: 740
+                deviation: -0.4453125
+                result:right
+            
+                peaks: [737 821 930]
+                closest_peak_at: 737
+                deviation: -0.439453125
+                result:right
+            
+                peaks: [754 839 945]
+                closest_peak_at: 754
+                deviation: -0.47265625
+                result:right
+            
+                peaks: [861 999]
+                closest_peak_at: 861
+                deviation: -0.681640625
+                result:right
+            
+                peaks: [967]
+                closest_peak_at: 967
+                deviation: -0.888671875
+                result:right
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: [26]
+                closest_peak_at: 26
+                deviation: 0.94921875
+                result:left
+            
+                peaks: [50]
+                closest_peak_at: 50
+                deviation: 0.90234375
+                result:left
+            
+                peaks: [3]
+                closest_peak_at: 3
+                deviation: 0.994140625
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: [5]
+                closest_peak_at: 5
+                deviation: 0.990234375
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: [44]
+                closest_peak_at: 44
+                deviation: 0.9140625
+                result:left
+            
+                peaks: [45]
+                closest_peak_at: 45
+                deviation: 0.912109375
+                result:left
+            
+                peaks: [86]
+                closest_peak_at: 86
+                deviation: 0.83203125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: []
+                closest_peak_at: -1
+                deviation: 1.001953125
+                result:left
+            
+                peaks: [989]
+                closest_peak_at: 989
+                deviation: -0.931640625
+                result:right
+            
+                peaks: [933]
+                closest_peak_at: 933
+                deviation: -0.822265625
+                result:right
+            
+                peaks: [874 987]
+                closest_peak_at: 874
+                deviation: -0.70703125
+                result:right
+            
+                peaks: [840 978]
+                closest_peak_at: 840
+                deviation: -0.640625
+                result:right
+            
+                peaks: [829 941]
+                closest_peak_at: 829
+                deviation: -0.619140625
+                result:right
+            
+                peaks: [ 795  890 1013]
+                closest_peak_at: 795
+                deviation: -0.552734375
+                result:right
+            
+                peaks: [747 936]
+                closest_peak_at: 747
+                deviation: -0.458984375
+                result:right
+            
+                peaks: [688 865]
+                closest_peak_at: 688
+                deviation: -0.34375
+                result:right
+            
+                peaks: [647 815 973]
+                closest_peak_at: 647
+                deviation: -0.263671875
+                result:right
+            
+                peaks: [599 774 921]
+                closest_peak_at: 599
+                deviation: -0.169921875
+                result:right
+            
+                peaks: [540 689 861 925]
+                closest_peak_at: 540
+                deviation: -0.0546875
+                result:right
+            
+                peaks: [483 618 798 872]
+                closest_peak_at: 483
+                deviation: 0.056640625
+                result:left
+            
+                peaks: [465 599 781 856]
+                closest_peak_at: 465
+                deviation: 0.091796875
+                result:left
+            
+                peaks: [441 570 669 759 834]
+                closest_peak_at: 570
+                deviation: -0.11328125
+                result:right
+            
+                peaks: [386 500 686 782]
+                closest_peak_at: 500
+                deviation: 0.0234375
+                result:straight
+            
+                peaks: [337 420 542 728]
+                closest_peak_at: 542
+                deviation: -0.05859375
+                result:right
+            
+                peaks: [296 361 490 594 681]
+                closest_peak_at: 490
+                deviation: 0.04296875
+                result:straight
+            
+                peaks: [254 318 446 562 640]
+                closest_peak_at: 562
+                deviation: -0.09765625
+                result:right
+            
+                peaks: [217 404 529 603]
+                closest_peak_at: 529
+                deviation: -0.033203125
+                result:straight
+            
+                peaks: [240 381 515 577]
+                closest_peak_at: 515
+                deviation: -0.005859375
+                result:straight
+            
+                peaks: [189 354 491 561]
+                closest_peak_at: 491
+                deviation: 0.041015625
+                result:straight
+            
+                peaks: [154 329 462 531]
+                closest_peak_at: 531
+                deviation: -0.037109375
+                result:straight
+            
+                peaks: [150 296 428 504]
+                closest_peak_at: 504
+                deviation: 0.015625
+                result:straight
+            
+                peaks: [104 240 395 474]
+                closest_peak_at: 474
+                deviation: 0.07421875
+                result:left
+            
+                peaks: [ 89 207 372 452]
+                closest_peak_at: 452
+                deviation: 0.1171875
+                result:left
+            
+                peaks: [ 75 192 349 431]
+                closest_peak_at: 431
+                deviation: 0.158203125
+                result:left
+            
+                peaks: [ 57 167 330 410]
+                closest_peak_at: 410
+                deviation: 0.19921875
+                result:left
+            
