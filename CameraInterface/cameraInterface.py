@@ -11,15 +11,15 @@ def cameraInterface:
     def __init__(self, res = (640, 480)):
         self.res = res
         camera = PiCamera()
-        camera.sensor_mode = 7
-        camera.resolution = res
-        time.sleep(2)
-        camera.framerate = 90
-        camera.shutter_speed = camera.exposure_speed
-        camera.exposure_mode = 'off'
-        g = camera.awb_gains
-        camera.awb_mode = 'off'
-        camera.awb_gains = g
+        #camera.sensor_mode = 7
+        #camera.resolution = res
+        #time.sleep(2)
+        #camera.framerate = 120
+        #camera.shutter_speed = camera.exposure_speed
+        #camera.exposure_mode = 'off'
+        #g = camera.awb_gains
+        #camera.awb_mode = 'off'
+        #camera.awb_gains = g
         self.camera = camera
 
     def getImage(self):
